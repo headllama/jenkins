@@ -1,0 +1,2 @@
+https://www.jenkins.io/doc/book/installing/kubernetes/
+https://www.bogotobogo.com/DevOps/Docker/Docker-Kubernetes-Jenkins-Helm.php
